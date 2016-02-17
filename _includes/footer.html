@@ -45,7 +45,7 @@
         $(document).ready(function() {
   setTimeout(function(){
   if(location.pathname != "/") {
-    $('.trigger a[href^="/' + location.pathname.split("/")[1] +'/'+location.pathname.split("/")[2] +'"]').addClass('active');
+    $('.trigger a[href="/' + location.pathname.split("/")[1] +'/'+location.pathname.split("/")[2] +'"]').addClass('active');
   } else $('.none a:eq(0)').addClass('active');
 
             $('.tooltip-right').tooltipster({
