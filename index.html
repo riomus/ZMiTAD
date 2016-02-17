@@ -15,6 +15,7 @@ layout: default
     <header class="post-header">
         <h2 class="post-title"><a id="route" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     </header>
+    <div class="wf-container"></div>
     <section class="post-excerpt">
         <p>{{ post.content | strip_html | truncatewords:45}} <a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">»</a></p>
     </section>
