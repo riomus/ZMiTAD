@@ -9,8 +9,8 @@
 title: Zaawansowane Metody i Techniki Analizy Danych
 email: roman.bartusiak@pwr.edu.pl
 description: Zaawansowane Metody i Techniki Analizy Danych
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zmitad.github.io" # the base hostname & protocol for your site
+baseurl: "https://riomus.github.io/ZMiTAD/" # the subpath of your site, e.g. /blog
+url: "https://riomus.github.io/ZMiTAD/" # the base hostname & protocol for your site
 github_username:  riomus
 
 # Gems
