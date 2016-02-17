@@ -13,10 +13,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
  
-@font-face {
-    font-family: gidole;
-    src: url(/assets/font/gidole.otf);
-} 
+
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} gidole;
     color: $text-color;
