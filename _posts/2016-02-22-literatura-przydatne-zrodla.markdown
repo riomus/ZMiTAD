@@ -27,6 +27,12 @@ tags:
 
 # Wizualizacja danych
 - [https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana](https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana) pomysły na wizualizacje real-time
+- [https://d3js.org/](https://d3js.org/)
+- [https://plot.ly/](https://plot.ly/)
+- [https://processing.org/](https://processing.org/)
+- [http://leafletjs.com/](http://leafletjs.com/)
+- [http://openlayers.org/](http://openlayers.org/)
+- [http://threejs.org/](http://threejs.org/)
 
 # Platformy/frameworki do analizy danych
 - [https://www.knime.org/downloads/overview](https://www.knime.org/downloads/overview)
