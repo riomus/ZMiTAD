@@ -8,6 +8,7 @@
 # Site settings
 title: Zaawansowane Metody i Techniki Analizy Danych
 email: roman.bartusiak@pwr.edu.pl
+email2: lukasz.augustyniak@pwr.edu.pl
 description: Zaawansowane Metody i Techniki Analizy Danych
 baseurl: "/ZMiTAD" # the subpath of your site, e.g. /blog
 url: "https://riomus.github.io/ZMiTAD/" # the base hostname & protocol for your site
