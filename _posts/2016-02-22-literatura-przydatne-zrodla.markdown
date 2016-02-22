@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Litearatura i przydatne źródła"
+title:  "Literatura i przydatne źródła"
 date:   2016-02-22 00:00:00 +0100
 categories: uncategorized
 tags:
 - info
 ---
 
-#Litearatura:
+# Literatura:
 - Advances in Social Media Analysis, edited by Mohamed Medhat Gaber, Mihaela Cocea, Nirmalie Wiratunga, Ayse Goker
 - Mining the Social Web, 2nd Edition, Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More, Matthew A. Russell, O'Reilly Media, October 2013
 
-#Przydatne źródła
+# Przydatne źródła
 - https://www.coursera.org, np. https://www.coursera.org/learn/machine-learning
 - https://www.import.io
 - http://scrapinghub.com/opensource
