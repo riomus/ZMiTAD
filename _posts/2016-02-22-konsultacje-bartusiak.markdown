@@ -12,6 +12,5 @@ Budynek A1
 Pokój 202 (wejście przez 203)
 
 * PN 11-13
-* CZW 14-16
 
 Proszę o wcześniejszy kontakt mailowy.

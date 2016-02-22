@@ -12,7 +12,7 @@ exclude_from_nav: true
 	  {% for tag in site.tags %}
 	  
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a id="route" href="/tags/#{{ tag | first | slugize }}">
+    <a id="route" href="{{"/tags/#" | prepend: site.baseurl }}{{tag | first | slugize}}">
       {{ tag | first }}
       <span>{{ tag | last | size }}</span>
     </a>
@@ -29,7 +29,7 @@ exclude_from_nav: true
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
-      <p><h4><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h4></p>
+      <p><h4><a href="{{root_url | prepend: site.baseurl }}{{ post.url }}">{{post.title}}</a></h4></p>
       <p class="tags-date">{{ post.date | date: "%Y-%m-%d" }}</p>
     </article>
     {% endfor %}
