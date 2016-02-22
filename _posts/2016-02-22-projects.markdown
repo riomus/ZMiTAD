@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Proponowane tematy projektów"
+date:   2016-02-22 00:00:00 +0100
+categories: uncategorized
+tags:
+- projekty
+---
+
+
+1.Sieć projektów na podstawie danych z GitHub'a - wykrywanie wartości odstających (ang. outlier) [GHTorrernt](http://ghtorrent.org)
+
+2.Analizy strumienia zdarzeń w czasie rzeczywistym - Github Events API
+
+3.Analiza danych tekstowy w czasie rzeczywistym - Twitter API
+
+4.Analizy danych o społeczności OpenSource ze względu na lokalizację - Github Events API, GIS
+
+5.Analiza danych Wrocławskiego Budżetu Obywatelskiego
+
+6.Analiza danych o publikacjach i cytowaniach [NIPS 2015](https://www.kaggle.com/benhamner/d/benhamner/nips-2015-papers/exploring-the-nips-2015-papers/notebook)
+
+7.Analiza wydźwięku lub emocji występujących artykułach prasowych - [Event Registry](http://eventregistry.org/searchEvents)
+
+8.Predykcja rynków finansowych, ang. Forecast Financial Markets - (np. na podstawie Event Registry, historyczne kursy walut)
+
+9.Projekty na podstawie danych [wrocławskich](http://www.wroclaw.pl/open-data) 
+
+10.Projekty na podstawie danych z platformy [Kaggle](https://www.kaggle.com/datasets)
+
+11.Projekty na podstawie danych EU: [European Data Portal](http://www.europeandataportal.eu/)
+
+12.Rekomendacja repozytoriów dla deweloperów (GHTorrent, GitHub Archive)
+
+13.Systemy rekomendacyjne, np. wykorzystanie danych z [Event recomendation challenge](https://www.kaggle.com/c/event-recommendation-engine-challenge/data)
+
+14.Analiza języka naturalnego, np. wykrywanie tematu wypowiedzi, atrybutów opisujących produkty występujące w tekście/opiniach itp.
+
+15._Propozycje studentów_
