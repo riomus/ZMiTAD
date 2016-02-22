@@ -21,6 +21,8 @@ tags:
 - [http://scrapinghub.com/opensource](http://scrapinghub.com/opensource)
 - [http://webscope.sandbox.yahoo.com/#datasets](http://webscope.sandbox.yahoo.com/#datasets)
 - [http://www.crowdflower.com/data-for-everyone](http://www.crowdflower.com/data-for-everyone)
+- [http://europeandataportal.eu](europeandataportal.eu)
+- [http://www.wroclaw.pl/open-data/](www.wroclaw.pl/open-data/)
 
 # Platformy konkursowe
 - [https://www.kaggle.com](https://www.kaggle.com)
