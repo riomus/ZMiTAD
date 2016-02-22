@@ -15,15 +15,19 @@ tags:
 
 # Kursy online, tutoriale
 - [https://www.coursera.org - platfroma z kursami online](https://www.coursera.org), np. [https://www.coursera.org/learn/machine-learning - jeden z najlepszych kursó uczenia maszynowego dostepny w sieci](https://www.coursera.org/learn/machine-learning)
+
 # Pobieranie danych i zbiory danych
 - [https://www.import.io](https://www.import.io)
 - [http://scrapinghub.com/opensource](http://scrapinghub.com/opensource)
 - [http://webscope.sandbox.yahoo.com/#datasets](http://webscope.sandbox.yahoo.com/#datasets)
 - [http://www.crowdflower.com/data-for-everyone](http://www.crowdflower.com/data-for-everyone)
+
 # Platformy konkursowe
 - [https://www.kaggle.com](https://www.kaggle.com)
-Wizualizacja danych
+
+# Wizualizacja danych
 - [https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana](https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana) pomysły na wizualizacje real-time
+
 # Platformy/frameworki do analizy danych
 - [https://www.knime.org/downloads/overview](https://www.knime.org/downloads/overview)
 - [https://rapidminer.com/](https://rapidminer.com/)
