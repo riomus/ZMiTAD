@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Konsultacje R. Bartusiak"
+title:  "Konsultacje Łukasz Augustyniak"
 date:   2016-02-22 00:00:00 +0100
 categories: uncategorized
 tags:
-- bartusiak
-- konsultacje
+- augustyniak
 ---
 
 Budynek A1 
-Pokój 202 (wejście przez 203)
+Pokój 202 (wejście przez 203) - proszę dzwonić do 203K
 
-* PN 11-13
+PN 11-13
+CZW 15-17
 
 Proszę o wcześniejszy kontakt mailowy.
