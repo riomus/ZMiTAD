@@ -44,3 +44,8 @@ tags:
 - [http://scikit.ml Multi-label classification package for python](http://scikit.ml)
 - [http://scikit-learn.org Python](http://scikit-learn.org)
 - [http://www.h2o.ai - open source machine learning platform](http://www.h2o.ai/)
+
+# Biblioteki na analizy danych seciowych/grafowych
+- [https://networkx.github.io/](https://networkx.github.io/)
+- [https://graph-tool.skewed.de potrzebna kompilacja, zalecane używanie Linux] (https://graph-tool.skewed.de/)
+- [http://igraph.org/python/] (http://igraph.org/python/)
