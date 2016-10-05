@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Literatura i przydatne źródła"
-date:   2016-02-22 00:00:00 +0100
+date:   2016-10-05 00:00:00 +0100
 categories: uncategorized
 tags: 
 - przydatne
@@ -24,9 +24,11 @@ tags:
 - [http://www.crowdflower.com/data-for-everyone](http://www.crowdflower.com/data-for-everyone)
 - [http://europeandataportal.eu](europeandataportal.eu)
 - [http://www.wroclaw.pl/open-data/](www.wroclaw.pl/open-data/)
+- [http://academictorrents.com/](http://academictorrents.com/)
 
 # Platformy konkursowe
 - [https://www.kaggle.com](https://www.kaggle.com)
+- [https://www.scicup.com](https://www.scicup.com)
 
 # Wizualizacja danych
 - [https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana](https://realpython.com/blog/python/twitter-sentiment-python-docker-elasticsearch-kibana) pomysły na wizualizacje real-time
@@ -49,3 +51,4 @@ tags:
 - [https://networkx.github.io/](https://networkx.github.io/)
 - [https://graph-tool.skewed.de potrzebna kompilacja, zalecane używanie Linux] (https://graph-tool.skewed.de/)
 - [http://igraph.org/python/] (http://igraph.org/python/)
+- [http://sparkling.ml] (http://sparkling.ml)
